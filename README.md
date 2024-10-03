@@ -5,10 +5,6 @@
 [comment]: <> (Colombia Icon retrieved from: <a href="https://www.flaticon.com/free-icons/colombia" title="colombia icons">Colombia icons created by Freepik - Flaticon</a>)
 [comment]: <> (Canada Icon retrieved from: <a href="https://www.flaticon.com/free-icons/flags" title="flags icons">Flags icons created by Freepik - Flaticon</a>)
 
-<p align="center">
-  <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dkYXlqZ290YTl0dGlzcDFpN25hcW9pMHQxYmY3aWxrMW9tOHJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="620" height="340">
-</p>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
