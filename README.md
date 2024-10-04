@@ -1,6 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! I'm David Torrez 👨🏻‍💻</h1>
 
-<p>Welcome to my GitHub profile! </br> I'm David Torrez, Web developer from <img src="https://github.com/user-attachments/assets/0fcdd604-ead9-4110-96ab-06f41d3c5f11" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://github.com/user-attachments/assets/d6c79ac4-6139-4223-a372-0a6b4102bcb5" width="13"/> <b>Vancouver, Canada</b>. </p>
+<p>Welcome to my GitHub profile! </br> 
+I'm a Web developer from <img src="https://github.com/user-attachments/assets/0fcdd604-ead9-4110-96ab-06f41d3c5f11" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://github.com/user-attachments/assets/d6c79ac4-6139-4223-a372-0a6b4102bcb5" width="13"/> <b>Vancouver, Canada</b>. </br>
+I aim to build exceptional websites, applying the latest technologies and best practices.</p>
 
 [comment]: <> (Colombia Icon retrieved from: <a href="https://www.flaticon.com/free-icons/colombia" title="colombia icons">Colombia icons created by Freepik - Flaticon</a>)
 [comment]: <> (Canada Icon retrieved from: <a href="https://www.flaticon.com/free-icons/flags" title="flags icons">Flags icons created by Freepik - Flaticon</a>)
