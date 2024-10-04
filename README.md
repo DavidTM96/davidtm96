@@ -65,3 +65,8 @@ I aim to build exceptional websites, applying the latest technologies and best p
 <a href="https://www.instagram.com/davidtorrezm?igsh=YWVxdDhwdnI4dW5n" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
+<div>
+   
+   ![DavidTM96's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtm96&show_icons=true&locale=en&theme=prussian#gh-dark-mode-only)
+   
+</div>
