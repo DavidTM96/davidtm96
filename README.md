@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! I'm David Torrez 👨🏻‍💻</h1>
 
-<p>Welcome to my GitHub profile! </br> 
+<p>
 I'm a Web developer from <img src="https://github.com/user-attachments/assets/0fcdd604-ead9-4110-96ab-06f41d3c5f11" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://github.com/user-attachments/assets/d6c79ac4-6139-4223-a372-0a6b4102bcb5" width="13"/> <b>Vancouver, Canada</b>. </br>
-I aim to build exceptional websites, applying the latest technologies and best practices.</p>
+I aim to build exceptional websites, applying the latest technologies and best practices.
+</p>
 
 [comment]: <> (Colombia Icon retrieved from: <a href="https://www.flaticon.com/free-icons/colombia" title="colombia icons">Colombia icons created by Freepik - Flaticon</a>)
 [comment]: <> (Canada Icon retrieved from: <a href="https://www.flaticon.com/free-icons/flags" title="flags icons">Flags icons created by Freepik - Flaticon</a>)
@@ -58,13 +59,14 @@ I aim to build exceptional websites, applying the latest technologies and best p
     </tr>
 </table>
 
-<h3>Where to find me</h3>
+## <h3>▶ Where to find me</h3>
 <p>
 <a href="https://github.com/DavidTM96" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/david-torrez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/davidtorrezm?igsh=YWVxdDhwdnI4dW5n" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
+## <h3>▶ Stats</h3>
 <div>
    
    ![DavidTM96's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtm96&show_icons=true&locale=en&theme=prussian#gh-dark-mode-only)
