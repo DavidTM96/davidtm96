@@ -21,6 +21,7 @@ I aim to build exceptional websites, applying the latest technologies and best p
         <td>Frontend</td>
         <td>
           <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" align="center"/>
+          <img alt="NextJS" src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white" align="center"/>
           <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" align="center"/>
           <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" align="center"/>
         </td>
